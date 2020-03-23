@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aashaijeey.jehan.email/sitemap.xml
